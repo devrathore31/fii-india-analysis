@@ -1,5 +1,5 @@
 # 🇮🇳 FII Flow Analysis — India (2008–2026)
-### *"₹5.7 Lakh Crore Nikala FII Ne — Phir Bhi Nifty Kyun Khada Hai?"*
+### *"FIIs pulled out ₹3.85 Lakh Crore between 2022–2026. Still why Nifty is at 23,000+."*
 
 > A data-driven Power BI dashboard exploring 19 years of Foreign Institutional Investor (FII) flows into Indian equity markets, their correlation with global macro triggers, and the structural rise of Domestic Institutional Investors (DII) as India's financial immune system.
 
@@ -60,7 +60,7 @@ When USD/INR rises sharply (2011, 2013, 2022, 2026), FII outflow follows. Rupee 
 
 ## 🛠️ How to Use This Dashboard
 
-1. Download `FII_Dashboard.pbix`
+1. Download `FII_Dashboard.pbip`
 2. Open in Power BI Desktop (free download from Microsoft)
 3. If data doesn't refresh — go to `Home → Transform Data → Data Source Settings` and re-point to your local CSV path
 
@@ -70,8 +70,8 @@ When USD/INR rises sharply (2011, 2013, 2022, 2026), FII outflow follows. Rupee 
 
 Built as part of a YouTube channel focused on explaining Indian financial markets through 3D data visualization. Every number in this dashboard traces back to an official source — NSDL, NSE, FRED, or RBI.
 
-**Subscribe for weekly market breakdowns:** [YouTube Channel Link]
-**Connect on LinkedIn:** [LinkedIn Profile]
+**Subscribe for weekly market breakdowns:** https://www.youtube.com/@investingtacts
+**Connect on LinkedIn:** https://www.linkedin.com/in/devesh-rathore-089b09b3/
 
 ---
 

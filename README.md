@@ -14,14 +14,27 @@ fii-india-analysis/
 │   ├── FII_Master_Annual.csv        ← 19 years annual data (2008–2026)
 │   └── FII_Monthly_KeyEvents.csv    ← 11 key outflow months with event tags
 │
-├── powerbi/
+├── powerbifile/
 │   └── FII_Dashboard.pbix           ← Power BI dashboard file
 │
 ├── README.md
-└── DAX_Measures.md                  ← All DAX formulas used in the dashboard
 ```
 
 ---
+
+## Dashboard Preview
+
+### Page 1 — The Big Picture
+![Big Picture](dashboard_screenshots/Page1_BigPicture.png)
+
+### Page 2 — FII vs DII Tug of War
+![FII vs DII](dashboard_screenshots/Page2_FIIvsDII.png)
+
+### Page 3 — Global Macro Connection
+![Global Macro](dashboard_screenshots/Page3_GlobalMacro.png)
+
+### Page 4 — Monthly Crisis Map
+![Monthly Crisis](dashboard_screenshots/Page4_MonthlyCrisis.png)
 
 ## 📊 Data Sources
 

@@ -25,16 +25,16 @@ fii-india-analysis/
 ## Dashboard Preview
 
 ### Page 1 — The Big Picture
-![Big Picture](dashboard_screenshots/Page1_BigPicture.png)
+Dashboard_screenshots/The big picture.JPG
 
 ### Page 2 — FII vs DII Tug of War
-![FII vs DII](dashboard_screenshots/Page2_FIIvsDII.png)
+Dashboard_screenshots/FIIvsDII.JPG
 
 ### Page 3 — Global Macro Connection
-![Global Macro](dashboard_screenshots/Page3_GlobalMacro.png)
+Dashboard_screenshots/Global macro connection.JPG
 
 ### Page 4 — Monthly Crisis Map
-![Monthly Crisis](dashboard_screenshots/Page4_MonthlyCrisis.png)
+Dashboard_screenshots/Monthly crisis map.JPG
 
 ## 📊 Data Sources
 

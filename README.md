@@ -1,5 +1,5 @@
 # 🇮🇳 FII Flow Analysis — India (2008–2026)
-### *"FIIs pulled out ₹3.85 Lakh Crore between 2022–2026. Still why Nifty is at 23,000+."*
+### *"FIIs pulled out ₹3.85 Lakh Crore between 2022–2026, why Nifty still is at 23,000+."*
 
 > A data-driven Power BI dashboard exploring 19 years of Foreign Institutional Investor (FII) flows into Indian equity markets, their correlation with global macro triggers, and the structural rise of Domestic Institutional Investors (DII) as India's financial immune system.
 
